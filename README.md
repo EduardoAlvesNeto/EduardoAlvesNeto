@@ -1,5 +1,5 @@
 ## Opa, meu nome é Eduardo...
-<div align="center" style="display: inline-block">
+<div align="center">
   <a href="https://www.instagram.com/deveduardoalves/">
   <img src="https://github-readme-stats.vercel.app/api?username=EduardoAlvesNeto&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAlvesNeto&layout=compact&theme=synthwave"/>
