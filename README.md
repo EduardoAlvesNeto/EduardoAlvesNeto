@@ -2,7 +2,7 @@
 <div align="center" style="display: inline-block">
   <a href="https://www.instagram.com/deveduardoalves/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoAlvesNeto&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAlvesNeto&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" width="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAlvesNeto&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
   
   ##
