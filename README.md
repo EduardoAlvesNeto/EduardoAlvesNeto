@@ -33,4 +33,8 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     
   <hr>
+  
+  <h3> IDE </h3>
+  <img align="center" alt="Atom" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg">
+  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
