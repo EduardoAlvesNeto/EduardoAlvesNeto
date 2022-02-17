@@ -1,3 +1,2 @@
-### Opa meu piva, como cê ta? 👋
-
-Venho estudando programação a cerca de 1 ano, 
+[![Eduardo Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoAlvesNeto&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAlvesNeto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
