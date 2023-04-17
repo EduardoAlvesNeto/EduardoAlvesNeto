@@ -14,8 +14,8 @@ Aqui estão algumas das tecnologias que uso:
 
 Quer colaborar em um projeto ou apenas dizer oi? Você pode me encontrar em:
 
-[![Instagram Badge](https://img.shields.io/badge/-@eduardodotdev-blue?style=flat-square&logo=instagram&logoColor=white&link=https:https://www.instagram.com/eduardodotdev/)](https://www.instagram.com/eduardodotdev/)
-[![LinkedIn Badge](https://img.shields.io/badge/-eduardoalvesdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardoalvesdev/)](https://www.linkedin.com/in/eduardoalvesdev/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/eduardodotdev/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardoalvesdev/)
 
 Obrigado por visitar meu perfil! Vamos construir algo incrível juntos! 💪🏽
 
